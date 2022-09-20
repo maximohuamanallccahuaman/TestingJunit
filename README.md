@@ -2,12 +2,23 @@
 
 1. Creamos una clase `Usuario.java` el cual tendrá un campo de tipo string.
 
-![Screenshot_1](https://user-images.githubusercontent.com/72884594/191290526-2dbd4635-7481-4c48-9aba-3b8bc722d51d.png)
+  ![Screenshot_1](https://user-images.githubusercontent.com/72884594/191290526-2dbd4635-7481-4c48-9aba-3b8bc722d51d.png)
+
+2. Luego creamos otra clase llamada `Usuarios` en cual contendrá los métodos a usar en la demo como los son :
+  . ArrayList
+  . crear
+  . borrar
+  . obtener
+ 
+ ![Screenshot_2](https://user-images.githubusercontent.com/72884594/191291475-3dc6e354-f610-48e5-9ee2-8a331673a52a.png)
+ 
+## Testing 📖
+
+3. Para inicar creamos una clase llamada `UsuariosTest` en la carpeta de test, ejemplo :
+
+  ![Screenshot_3](https://user-images.githubusercontent.com/72884594/191293527-703401ad-f950-4b53-9340-ed8afb743e87.png)
 
 
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Licencia 📄
 
