@@ -1,6 +1,9 @@
 # Buenas prácticas y estrátegias en JUnit
 
-1. 
+1. Creamos una clase `Usuario.java` el cual tendrá un campo de tipo string.
+
+![Screenshot_1](https://user-images.githubusercontent.com/72884594/191290526-2dbd4635-7481-4c48-9aba-3b8bc722d51d.png)
+
 
 ## Wiki 📖
 
