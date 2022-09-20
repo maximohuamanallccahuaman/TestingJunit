@@ -18,21 +18,11 @@
 
   ![Screenshot_3](https://user-images.githubusercontent.com/72884594/191293527-703401ad-f950-4b53-9340-ed8afb743e87.png)
 
+  Explico que en la carpeta test hay 3 clases y es por que es uno es la secuencia de otro, `UsuariosTest` -> `UsuariosTest2` -> `UsuariosTest3`.
+  
+4. En la clase `UsuariosTest` testiamos los metodos crear, borrar y listar.
 
+  ![Screenshot_4](https://user-images.githubusercontent.com/72884594/191300477-92382134-55a1-4a3c-a951-90956176931f.png)
 
-## Licencia 📄
+  ![Screenshot_5](https://user-images.githubusercontent.com/72884594/191300675-1068a99c-792e-4206-a66f-26b6b1dbf643.png)
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
